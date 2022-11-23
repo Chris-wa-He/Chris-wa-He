@@ -1,4 +1,20 @@
-### Hi there 👋
+<!-- Printing -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&width=435&lines=Coding+for%E2%80%A6%E2%80%A6;a+polychrome+and+promising+future" alt="Typing SVG" /></a>
+<br>
+
+<!-- Stats card -->
+<div align="center"> 
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Chris-wa-He&hide_title=true&hide_border=true&title_color=FFD700&bg_color=0,ABDCFF,0396FF&show_icons=true&icon_color=FF0000&text_color=FFFFFF" /> 
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chris-wa-He&hide_title=true&hide_border=true&layout=compact&langs_count=6&icon_color=FF0000&bg_color=0,ABDCFF,0396FF&text_color=FFFFFF" />
+</div>
+<br>
+
+<!-- Contribution -->
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Chris-wa-He&hide_title=true&theme=react" /> </div>
+
+<!--
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Chris-wa-He&hide_title=true&hide_border=true&show_icons=true&theme=cobalt" /> </div>
+-->
 
 <!--
 **Chris-wa-He/Chris-wa-He** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
