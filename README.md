@@ -1,9 +1,12 @@
 <!-- Printing -->
 <h1 align="center"> 
     <a href="https://github.com/Chris-wa-He">
-    <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&width=435&lines=Coding+for%E2%80%A6%E2%80%A6;a+polychrome+and+promising+future" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=38&pause=1000&width=460&height=60&lines=Coding+for%E2%80%A6%E2%80%A6;a+polychrome+and+promising+future" alt="Typing SVG" />
     </a>
 </h1>
+<br>
+
+<div align="center" ><img order-radius="100px" src="image/Kira.gif"/></div>
 <br>
 
 <!-- Stats card -->
