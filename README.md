@@ -6,7 +6,7 @@
 </h1>
 <br>
 
-<div align="center" ><img order-radius="100px" src="image/Kira.gif"/></div>
+<div align="center" ><img order-radius="100px" src="images/Kira.gif"/></div>
 <br>
 
 <!-- Stats card -->
