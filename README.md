@@ -6,8 +6,18 @@
 </h1>
 <br>
 
+
+<!-- Badge -->
+<div align="right">
+<!-- Visitor badge -->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Chris-wa-He.visitor-badge" alt="Visitor badge" />
+</div>
+
 <div align="center" ><img order-radius="100px" src="images/Kira.gif"/></div>
 <br>
+
+<!-- profile-3d-contrib -->
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/Chris-wa-He/Chris-wa-He/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
 <!-- Stats card -->
 <div align="center"> 
@@ -18,22 +28,3 @@
 
 <!-- Contribution -->
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Chris-wa-He&hide_title=true&theme=react" /> </div>
-
-<!--
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Chris-wa-He&hide_title=true&hide_border=true&show_icons=true&theme=cobalt" /> </div>
--->
-
-<!--
-**Chris-wa-He/Chris-wa-He** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
