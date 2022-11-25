@@ -22,3 +22,4 @@ jobs:
           git add -A .
           git commit -m ":rocket: Profile-3D-Contrib update."
           git push
+          curl https://purge.jsdelivr.net/gh/Chris-wa-He/Chris-wa-He/profile-3d-contrib/profile-night-rainbow.svg
