@@ -9,6 +9,9 @@
 <div align="center" ><img order-radius="100px" src="images/Kira.gif"/></div>
 <br>
 
+<!-- profile-3d-contrib -->
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/Chris-wa-He/Chris-wa-He/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
+
 <!-- Stats card -->
 <div align="center"> 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Chris-wa-He&hide_title=true&hide_border=true&title_color=FFD700&bg_color=0,ABDCFF,0396FF&show_icons=true&icon_color=FF0000&text_color=FFFFFF" /> 
