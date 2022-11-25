@@ -24,7 +24,7 @@
 <br>
 
 <!-- profile-3d-contrib -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/Chris-wa-He/Chris-wa-He/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
+<div align="center" ><img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
 <!-- Contribution -->
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Chris-wa-He&hide_title=true&theme=react" /> </div>
